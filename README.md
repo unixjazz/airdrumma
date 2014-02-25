@@ -1,6 +1,6 @@
 #Airdrumma
 
-Wearable drum machine project for the Raspberry Pi and the Cubieboard.
+Wearable drum machine project for the Raspberry Pi and the Cubieboard. Check out the [demo](http://vimeo.com/78056338).
 
 
 ##Dependencies
