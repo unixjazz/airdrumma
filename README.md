@@ -12,7 +12,7 @@ Wearable drum machine project for the Raspberry Pi and the Cubieboard.
 
 ##Changelog
 
-*10/02/2013* Initial release
+**10/02/2013** Initial release
 
-*02/24/2014* First prototype released
+**02/24/2014** First prototype released
 
